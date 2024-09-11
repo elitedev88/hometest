@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "orderTotal": 740,
+    "orderDate": "2024-09-05",
+    "shippingAddress": "100 Dundas Street East",
+    "customerName": "John Doe",
+    "customerEmail": "john.doe@test.com",
+    "lineItems": [1, 2]
+  },
+  {
+    "id": 2,
+    "orderTotal": 500,
+    "orderDate": "2024-09-05",
+    "shippingAddress": "100 Queen Street East",
+    "customerName": "Jane Doe",
+    "customerEmail": "jane.doe@test.com",
+    "lineItems": [1]
+  },
+  {
+    "id": 3,
+    "orderTotal": 350,
+    "orderDate": "2024-09-07",
+    "shippingAddress": "100 King Street East",
+    "customerName": "John Smith",
+    "customerEmail": "john.smith@test.com",
+    "lineItems": [3]
+  },
+  {
+    "id": 4,
+    "orderTotal": 850,
+    "orderDate": "2024-09-11",
+    "shippingAddress": "100 Knight Street East",
+    "customerName": "Jane Smith",
+    "customerEmail": "jane.smith@test.com",
+    "lineItems": [1, 3]
+  },
+  {
+    "id": 5,
+    "orderTotal": 1090,
+    "orderDate": "2024-09-11",
+    "shippingAddress": "100 Prince Street East",
+    "customerName": "John Brown",
+    "customerEmail": "john.brown@test.com",
+    "lineItems": [1, 2, 3]
+  },
+  {
+    "id": 6,
+    "orderTotal": 240,
+    "orderDate": "2024-09-11",
+    "shippingAddress": "100 Princess Street East",
+    "customerName": "Jane Brown",
+    "customerEmail": "jane.brown@test.com",
+    "lineItems": [2]
+  },
+  {
+    "id": 7,
+    "orderTotal": 500,
+    "orderDate": "2024-09-20",
+    "shippingAddress": "100 Hero Street East",
+    "customerName": "Jhon Miller",
+    "customerEmail": "jhon.miller@test.com",
+    "lineItems": [1]
+  },
+  {
+    "id": 8,
+    "orderTotal": 590,
+    "orderDate": "2024-09-20",
+    "shippingAddress": "100 Hero Street West",
+    "customerName": "Jane Miller",
+    "customerEmail": "jane.miller@test.com",
+    "lineItems": [2, 3]
+  }
+]

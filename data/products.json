@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "lineItemsId": 1,
+    "productName": "Red Roses Bouquet",
+    "price": 200
+  },
+  {
+    "id": 2,
+    "lineItemsId": 1,
+    "productName": "Box of chocolates",
+    "price": 120
+  },
+  {
+    "id": 3,
+    "lineItemsId": 1,
+    "productName": "Love card",
+    "price": 30
+  },
+  {
+    "id": 4,
+    "lineItemsId": 1,
+    "productName": "Women’s perfume",
+    "price": 150
+  },
+  {
+    "id": 5,
+    "lineItemsId": 2,
+    "productName": "Birthday cupcake",
+    "price": 120
+  },
+  {
+    "id": 6,
+    "lineItemsId": 2,
+    "productName": "$100 Visa Gift Card",
+    "price": 100
+  },
+  {
+    "id": 7,
+    "lineItemsId": 2,
+    "productName": "Birthday card",
+    "price": 20
+  },
+  {
+    "id": 8,
+    "lineItemsId": 3,
+    "productName": "Bottle of wine",
+    "price": 120
+  },
+  {
+    "id": 9,
+    "lineItemsId": 3,
+    "productName": "Fruit basket",
+    "price": 150
+  },
+  {
+    "id": 10,
+    "lineItemsId": 3,
+    "productName": "Pen",
+    "price": 80
+  }
+]
